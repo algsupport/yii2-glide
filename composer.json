@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "php" : "^7.2",
-        "yiisoft/yii2": "^2.0.0",
+        "php" : ">=8.0",
+        "yiisoft/yii2": "*",
         "league/glide": "^2.0",
         "league/uri": "^6.0",
         "symfony/http-foundation": "^3.0"
